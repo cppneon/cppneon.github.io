@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/obj/Debug/net8.0/compressed/kxo0gfly98.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/obj/Debug/net8.0/scopedcss/bundle/cppneon.styles.css",
+      "PackagePath": "staticwebassets/cppneon.styles.css"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/pruthviraj/Videos/cppneon/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.cppneon.props",
+      "PackagePath": "build\\cppneon.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.cppneon.props",
+      "PackagePath": "buildMultiTargeting\\cppneon.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.cppneon.props",
+      "PackagePath": "buildTransitive\\cppneon.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.cppneon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
